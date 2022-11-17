@@ -7,12 +7,13 @@ Plasma Donor Application
 
 
 
-![Slide7](https://user-images.githubusercontent.com/114067030/202459919-73dec8cd-76d3-45df-ad2c-a17d91ad5bc1.PNG)
-![Slide8](https://user-images.githubusercontent.com/114067030/202459925-2904038a-e84c-40db-a15a-cdc2d2cfb054.PNG)
-![Slide9](https://user-images.githubusercontent.com/114067030/202459930-240ad447-6932-4477-b4ff-d12d5c54a603.PNG)
-![Slide10](https://user-images.githubusercontent.com/114067030/202459936-d4636411-1470-44cb-aed0-7d1e4b70d306.PNG)
-![Slide2](https://user-images.githubusercontent.com/114067030/202459943-abeca571-8463-4196-b4a1-ed4f60b2a843.PNG)
-![Slide3](https://user-images.githubusercontent.com/114067030/202459949-decec94a-8484-4018-920c-d3c0c809868f.PNG)
-![Slide4](https://user-images.githubusercontent.com/114067030/202459954-a342fec1-d31a-479e-abee-fd155bb2bd3a.PNG)
-![Slide5](https://user-images.githubusercontent.com/114067030/202459962-cb446243-2450-470f-99b3-53d92fd2d1f5.PNG)
-![Slide6](https://user-images.githubusercontent.com/114067030/202459969-c2d12056-c5e4-42d2-905b-3c8ce97d4075.PNG)
+
+![Slide2](https://user-images.githubusercontent.com/114067030/202460116-4de24d63-d06a-4f84-89c8-e695107f934c.PNG)
+![Slide3](https://user-images.githubusercontent.com/114067030/202460122-62363eb1-90b5-4793-a4bb-d1f03f1fd92a.PNG)
+![Slide4](https://user-images.githubusercontent.com/114067030/202460124-300d6848-ffa4-4ba0-b0bf-05cad9e18956.PNG)
+![Slide5](https://user-images.githubusercontent.com/114067030/202460129-36acc6a5-1dff-4398-b821-f089ebbbbf06.PNG)
+![Slide6](https://user-images.githubusercontent.com/114067030/202460133-b2e3c406-6066-4ed4-aa63-1f2604419482.PNG)
+![Slide7](https://user-images.githubusercontent.com/114067030/202460139-87754cfc-5dcb-4f55-aa6f-f5a5cfb530ff.PNG)
+![Slide8](https://user-images.githubusercontent.com/114067030/202460144-ac69b1bb-34bb-41a8-8a76-d91b1c126b3d.PNG)
+![Slide9](https://user-images.githubusercontent.com/114067030/202460146-ee0e2ee1-07f4-4c7d-b967-a3ffbc4e5e33.PNG)
+![Slide10](https://user-images.githubusercontent.com/114067030/202460148-d74bf252-2ba7-4feb-86cc-d4a11f614d06.PNG)
